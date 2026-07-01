@@ -1,0 +1,2 @@
+# Aegis
+AI Emergency Companion
